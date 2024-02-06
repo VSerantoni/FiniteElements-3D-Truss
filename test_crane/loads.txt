@@ -1,0 +1,3 @@
+# list of loads for each node
+# nodeId Fx Fy Fz
+10 0 500 -1e7

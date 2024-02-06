@@ -1,0 +1,5 @@
+# boolean list of restricted degree of freedom for each node
+# nodeId x y z
+0 1 1 1
+1 1 1 1
+16 1 1 1
