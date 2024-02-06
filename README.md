@@ -8,7 +8,7 @@ This code is mainly based on 'A.J.M. Ferreira, MATLAB Codes for Finite Element A
 ## Presentation
 `demo.py` shows how to use `FeaTruss3D`. This demo deals with the following case, a basic crane:
 
-![TreatedCase](./images/crane_BC.PNG)
+![TreatedCase](./images/crane_BC.png)
 
 ### Inputs
 Their are five `.txt` inputs and one parameter to write into the main code.
@@ -34,4 +34,4 @@ Their are five `.txt` inputs and one parameter to write into the main code.
 + Display of the deformed structure.
 + Display of the deformed structure with a colour scale representing the compression or tension in all the elements.
 
-![TreatedCase](./images/crane_deformed_colored.PNG)
+![TreatedCase](./images/crane_deformed_colored.png)
